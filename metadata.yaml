@@ -1,11 +1,16 @@
 _repo: My-Lorraine-journal_75744
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75744-h/images/cover.jpg
 creator:
   author:
     agent_name: O'Shaughnessy, Edith Louise Coues
     gutenberg_agent_id: '58124'
     url: http://www.gutenberg.org/2009/agents/58124
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75744#My-Lorraine-journal
 gutenberg_issued: '2025-03-29'
 gutenberg_type: Text
 identifiers:
